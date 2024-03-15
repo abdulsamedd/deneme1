@@ -15,4 +15,6 @@ public static deneme(){
 }
 
 //Comment
+/*adssa
+    kral 555 */
 }
